@@ -1,0 +1,49 @@
+------------------------------------
+------------------------------------
+              READ ME
+------------------------------------
+------------------------------------
+
+------------------------------------
+En la termina de comandos de Windows
+------------------------------------
+
+#Descargar python en nuestra maquina:
+
+	-Para saber si ya lo tenemos instalado utilizar comando:
+
+		python --version
+
+	-Si no está instalado buscar en el Microsoftstore: Python 3.11
+
+#Descargar librería "MediaPipe"
+
+	-Escribir el siguiente comando:
+
+		pip install mediapipe
+
+
+#Descargar librería pygame
+
+	-Escribir el siguiente comando:
+
+		pip install pygame
+
+
+#Ejecutar el programa
+
+	-Para ejecutar el programa posicionarse con la terminal de comandos en la carpeta del programa
+
+	-Para moverse entre directorios utilizar comando:
+
+		cd nombre_directorio
+
+	-Para listar directorios internos a este utilizar comando:
+
+		dir
+
+	-Para ejecutar el programa utilizar el comando:
+
+		python handcapture.py
+	
+	-Para terminal la ejecución precionar la tecla "escape"
